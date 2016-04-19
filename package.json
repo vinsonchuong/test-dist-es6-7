@@ -1,0 +1,10 @@
+{
+  "name": "test-dist-es6-7",
+  "version": "0.0.1",
+  "scripts": {
+    "prepublish": "dist-es6"
+  },
+  "devDependencies": {
+    "dist-es6": "^0.1.15"
+  }
+}
